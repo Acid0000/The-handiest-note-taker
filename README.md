@@ -1,4 +1,4 @@
-# Note Taker
+# The Handiest Note Taker
 
 ## Description
 
